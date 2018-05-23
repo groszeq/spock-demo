@@ -1,0 +1,2 @@
+Spock is cool!
+Groovy is cool too!
